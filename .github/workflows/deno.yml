@@ -32,4 +32,4 @@ jobs:
         with:
           project: dew667-zyblog
           import-map: "./deno.json"
-          entrypoint: serve.ts
+          entrypoint: server.ts
